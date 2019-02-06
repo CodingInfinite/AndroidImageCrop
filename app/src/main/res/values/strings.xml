@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageCropper</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string-array name="imagePicker">
+        <item>From Gallery</item>
+        <item>From Camera</item>
+    </string-array>
+</resources>
